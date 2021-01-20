@@ -6,4 +6,7 @@ Contains:
 - Modified [username].ipynb crawler script 
 - [username]_tweets.csv: the scraped tweets from the crawler
 - [username]_map.qgz: qgis file type for map created from data 
-- [username]_tweetmap.pdf: map created for this assignment
+- [username]_tweetmap.png: map created for this assignment
+
+
+![Screenshot](screenshot.png)
