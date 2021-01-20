@@ -9,4 +9,4 @@ Contains:
 - [username]_tweetmap.png: map created for this assignment
 
 
-![Screenshot](screenshot.png)
+![Map Image](Tmccrea_tweetmapImage.png)
