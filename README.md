@@ -6,4 +6,4 @@ Contains:
 - Modified .ipynb crawler script 
 - tmccrea_tweets.csv: the scraped tweets from the crawler
 - tmccrea_map.qgz: qgis file type for map created from data 
-- tmccrea_mapimage.png: screenshot of map created for this assignment
+- tmccrea_tweetmap.pdf: map created for this assignment
