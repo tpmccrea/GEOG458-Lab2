@@ -10,3 +10,6 @@ Contains:
 
 
 ![Map Image](Tmccrea_tweetmapImage.png)
+
+
+- Section describing distribution of data points/short analysis of findings
