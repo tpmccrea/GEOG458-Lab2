@@ -1,4 +1,4 @@
-# GEOG458-Lab2
+# GEOG458-Lab2 (example)
 Example for deliverable of GEOG 458 Lab 2 Assignment
 
 Contains: 
